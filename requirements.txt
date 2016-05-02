@@ -1,0 +1,2 @@
+python-telegram-bot==4.0rc1
+psycopg2==2.6.1
